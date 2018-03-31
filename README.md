@@ -3,7 +3,8 @@
 link for this Hackathon : https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
 
 LeaderBoard RMSE value : 1158.29
-Problem Statement.
+
+Problem Statement:
 
 The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. 
 Also, certain attributes of each product and store have been defined. 
